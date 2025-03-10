@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+seaborn
+scipy
+xarray
+torch
+cartopy
+pickle5  # if using pickle with Python < 3.8
+warnings  # built-in, no need to install
+os  # built-in, no need to install
+datetime  # built-in, no need to install
+random  # built-in, no need to install
+itertools  # built-in, no need to install
+dataclasses  # built-in for Python 3.7+, but install if needed
